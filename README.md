@@ -1,7 +1,5 @@
 # EMA-Crossover-Backtest
 
-# 📈 EMA Crossover Backtest
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
@@ -19,11 +17,10 @@ This project is perfect for **finance enthusiasts, Python learners, or anyone wh
 - Simulates **buy/sell signals**, cash, holdings, and total portfolio value 💰
 - Visualize **stock prices, EMAs, and buy/sell signals** 📈
 - Works with **any stock ticker using yfinance**
-- Fully customizable **EMA periods and initial capital**
 
 ---
 
-## 🛠 Installation
+## installation guidelines
 ```bash
 git clone https://github.com/your-username/ema-crossover-backtest.git
 cd ema-crossover-backtest
